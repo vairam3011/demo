@@ -1,2 +1,2 @@
 # demo
-just a try fo first timw
+just a try fo first time
